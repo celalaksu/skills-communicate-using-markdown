@@ -1,7 +1,13 @@
+# *THİS İS THE REAL HEADER* ADDINNG HEADER 
 # Header 1
 ### Header 3
 ## Header 2
+
+# ADDING IMAGE
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# ADDING CODE LINES
 
 ```
 $ git init
@@ -11,3 +17,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+# ADDING LISTS
+
+- [ X] Turn on GitHub Pages
+- [ X] Outline my portfolio
+- [X ] Introduce myself to the world
