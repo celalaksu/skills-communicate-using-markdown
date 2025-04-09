@@ -19,6 +19,6 @@ var myVar = "Hello, world!";
 ```
 # ADDING LISTS
 
-- [ X] Turn on GitHub Pages
-- [ X] Outline my portfolio
-- [X ] Introduce myself to the world
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
